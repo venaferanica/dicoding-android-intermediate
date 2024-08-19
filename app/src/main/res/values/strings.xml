@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">StoryDicoding</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Lihat dan bagikan #KisahDicoding-mu sekarang juga!</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk bagikan ceritamu?</string>
+    <string name="name">Nama</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="error">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_story">Tambahkan ceritamu!</string>
+    <string name="foto">Foto</string>
+    <string name="kamera">Kamera</string>
+    <string name="galeri">Galeri</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="unggah">Unggah</string>
+    <string name="maps">Maps</string>
+    <string name="story_list">Story List</string>
+    <string name="retry">Retry</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="camera_button">Camera Button</string>
+    <string name="flip_camera_button">Flip Camera Button</string>
+</resources>
